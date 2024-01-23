@@ -1,0 +1,11 @@
+numpy
+rouge_score
+fire
+openai
+git+https://github.com/zphang/transformers.git@68d640f7c368bcaaaecfc678f11908ebbd3d6176
+git+https://mirror.ghproxy.com/https://github.com/huggingface/peft.git@32357c2dd2bab768da554d0b1b7dc15825689eb2
+torch
+sentencepiece
+tokenizers==0.12.1
+wandb
+accelerate
